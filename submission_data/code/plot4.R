@@ -103,8 +103,8 @@ plot(df$Global_reactive_power,
      yaxt='n')
 
 axis(side=2,
-     at=seq(0,0.5, by=0.1), 
-     labels=seq(0,0.5, by= 0.1))
+     at=seq(0.0,0.5, by=0.1), 
+     labels=seq(0.0,0.5, by= 0.1))
 
 axis(side=1, 
      labels = uniqueDays,  
