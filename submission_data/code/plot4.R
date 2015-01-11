@@ -74,7 +74,7 @@ lines(df$Sub_metering_3,
 legend("topright",  
        col= c("black","red", "blue"), 
        lwd = 1, 
-       legend=c("Sub_metering_1", "Sub_metering_2", "Sub_metering_3"))
+       legend=c("Sub_metering_1", "Sub_metering_2", "Sub_metering_3"), bty="n")
 
 axis(side=1, 
      labels = uniqueDays,  
