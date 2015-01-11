@@ -48,7 +48,7 @@ par(mfcol = c(2,2))
 
 plot(df$Global_active_power, 
      type ="l", 
-     ylab="Global Active Power (Kilowatts)", 
+     ylab="Global Active Power (kilowatts)", 
      xlab="", 
      xaxt='n')
 
@@ -61,7 +61,7 @@ axis(side=1,
 
 plot(df$Sub_metering_1, 
      type ="l", 
-     ylab="Energy Sub metering", 
+     ylab="Energy sub metering", 
      xlab="", 
      xaxt='n')
 

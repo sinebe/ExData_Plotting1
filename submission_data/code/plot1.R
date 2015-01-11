@@ -37,7 +37,7 @@ png(file='graphs/plot1.png',
 
 hist(df$Global_active_power, 
      main = "Global Active Power", 
-     xlab= "Global Active Power (Kilowatts)", 
+     xlab= "Global Active Power (kilowatts)", 
      ylab="Frequency", 
      col="red")
 

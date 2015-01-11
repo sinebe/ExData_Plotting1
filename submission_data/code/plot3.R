@@ -43,7 +43,7 @@ png(file='graphs/plot3.png',
 
 plot(df$Sub_metering_1, 
      type ="l", 
-     ylab="Energy Sub metering", 
+     ylab="Energy sub metering", 
      xlab="", 
      xaxt='n' )
 
