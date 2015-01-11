@@ -1,4 +1,4 @@
-# set data file location
+## set data file location
 dataFile = "X:/WD/Documents/Projects/Education/DataScience/DataScience/4_Exploratory_Data_Analysis/exdata-data-household_power_consumption/household_power_consumption.txt"
 
 #set wd to be where you will save you files.Specific to your local enviroment
